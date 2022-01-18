@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @hasibmlp
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning javaScript
+- 👋 Hi,
+
+ I’m Abdulla Haseeb!
+ 👀 I’m interested in programming!!
+
+Currently: BCA student at kannur university, kerala, india.
+
+Currently learning:-
+- 🌱 Practicing javaScript on online learning platform udemy.
+
+
 - 💞️ I’m looking to collaborate on learning javaScript
 - 📫 Reach me @hasibmlp@gmail.com
 
