@@ -1,4 +1,4 @@
-- 👋 Hi,
+ 👋 Hi,
 
  I’m Abdulla Haseeb!
  👀 I’m interested in programming!!
